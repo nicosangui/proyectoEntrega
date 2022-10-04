@@ -3,3 +3,4 @@ info.txt
 venv
 git
 __pycache__
+db.sqlite3
